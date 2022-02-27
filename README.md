@@ -65,6 +65,12 @@ Type `Tool-X` or `toolx` from anywhere in your terminal to open Tool-X.
 
 ------------------------------------------------------------------------
 
+### How to remove ?
+
+Open Tool-X and type `rm -T` or `uninstall tool-x` to uninstall Tool-X.
+
+------------------------------------------------------------------------
+
 **Warning**
 
 We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
